@@ -19,7 +19,7 @@ $ echo "status"
 Always building. Always learning.
 
 $ echo "location"
-Earth / probably in VS Code
+Earth / probably in VS Code. Okay Fine; Isfahan, Iran
 ```
 
 ---
