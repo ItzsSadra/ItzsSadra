@@ -1,7 +1,5 @@
 ## Fancy seeing you here 👋
 
-<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
-
 I’m **Sadra**, a developer who enjoys building useful tools, bots, and backend systems.  
 I like clean code, structured learning, and shipping real projects instead of endless experiments.
 
