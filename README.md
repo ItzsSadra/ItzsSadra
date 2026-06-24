@@ -1,99 +1,70 @@
-<h1 align="center">Hey, I'm Sadra 👋</h1>
+<!-- TERMINAL STYLE README -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
-</p>
-
-<p align="center">
-  Developer • Builder • Backend Enjoyer • Automation Addict
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF9F&center=true&vCenter=true&width=600&lines=>+whoami;>+Sadra;>+loading+profile...;>+build+tools+%7C+bots+%7C+backend+systems" />
 </p>
 
 ---
 
+```bash
+$ whoami
+Sadra
+
+$ echo "about"
+Developer who builds tools, bots, and backend systems.
+Prefers clean architecture over messy hacks.
+Shipping > overthinking.
+
+$ echo "status"
+Always building. Always learning.
+
+$ echo "location"
+Earth / probably in VS Code
+```
+
+---
+
+## 🌐 CONNECT
+
 <p align="center">
-I build tools, bots, and backend systems that actually do things.<br>
-Clean architecture > messy hacks. Shipping > overthinking.
+  <img src="https://img.shields.io/badge/~/github-0d1117?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/ItzsSadra">
+    <img src="https://img.shields.io/badge/open_profile-00ff9f?style=for-the-badge&logo=github&logoColor=black" />
+  </a>
 </p>
 
 ---
 
-## 🌐 Connect with me
+## ⚙️ SYSTEM STACK
+
+```bash
+$LANGUAGES = Python | JavaScript | TypeScript
+
+$FRONTEND = React | HTML5 | Tailwind | Bootstrap
+
+$BACKEND = Node.js | Flask | MongoDB | PostgreSQL | Redis
+
+$CLOUD = AWS | Azure | Google Cloud | Docker
+
+$TOOLS = Git | GitHub | VS Code
+```
+
+---
+
+## 🧠 ENVIRONMENT
 
 <p align="center">
-
-[![GitHub](https://img.shields.io/badge/-GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ItzsSadra)
-
+  <img src="https://img.shields.io/badge/runtime-node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=00ff9f" />
+  <img src="https://img.shields.io/badge/editor-vscode-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=00ff9f" />
+  <img src="https://img.shields.io/badge/os-unknown-0d1117?style=for-the-badge&logo=linux&logoColor=00ff9f" />
 </p>
 
 ---
 
-## ⚡ Tech Arsenal
-
----
-
-### 🧠 Languages
-
-<p align="center">
-![Python](https://img.shields.io/badge/-Python-0d1117?style=for-the-badge&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-0d1117?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-0d1117?style=for-the-badge&logo=typescript)
-</p>
-
----
-
-### 🖥️ Frontend
-
-<p align="center">
-![React](https://img.shields.io/badge/-React-0d1117?style=for-the-badge&logo=react)
-![HTML5](https://img.shields.io/badge/-HTML5-0d1117?style=for-the-badge&logo=html5)
-![Tailwind](https://img.shields.io/badge/-Tailwind-0d1117?style=for-the-badge&logo=tailwindcss)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-0d1117?style=for-the-badge&logo=bootstrap)
-</p>
-
----
-
-### ⚙️ Backend / Databases
-
-<p align="center">
-![Node.js](https://img.shields.io/badge/-Node.js-0d1117?style=for-the-badge&logo=node.js)
-![Flask](https://img.shields.io/badge/-Flask-0d1117?style=for-the-badge&logo=flask)
-![MongoDB](https://img.shields.io/badge/-MongoDB-0d1117?style=for-the-badge&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0d1117?style=for-the-badge&logo=postgresql)
-![Redis](https://img.shields.io/badge/-Redis-0d1117?style=for-the-badge&logo=redis)
-</p>
-
----
-
-### ☁️ Cloud / DevOps
-
-<p align="center">
-![Docker](https://img.shields.io/badge/-Docker-0d1117?style=for-the-badge&logo=docker)
-![AWS](https://img.shields.io/badge/-AWS-0d1117?style=for-the-badge&logo=amazon-aws)
-![Azure](https://img.shields.io/badge/-Azure-0d1117?style=for-the-badge&logo=microsoft-azure)
-![Google Cloud](https://img.shields.io/badge/-GCP-0d1117?style=for-the-badge&logo=google-cloud)
-</p>
-
----
-
-### 🔧 Tools I Actually Use
-
-<p align="center">
-![Git](https://img.shields.io/badge/-Git-0d1117?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-0d1117?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/-VS%20Code-0d1117?style=for-the-badge&logo=visualstudiocode)
-</p>
-
----
-
-### 🤖 Side Stuff
-
-<p align="center">
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-0d1117?style=for-the-badge&logo=raspberry-pi)
-</p>
-
----
-
-## 📊 GitHub Stats
+## 📊 SYSTEM STATUS
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ItzsSadra&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -109,7 +80,7 @@ Clean architecture > messy hacks. Shipping > overthinking.
 
 ---
 
-## 👀 Visitor Count
+## 👀 VISITORS
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ItzsSadra.ItzsSadra" />
@@ -117,6 +88,8 @@ Clean architecture > messy hacks. Shipping > overthinking.
 
 ---
 
-<p align="center">
-  <b>Thanks for stopping by 🤝</b>
-</p>
+```bash
+$ exit
+connection closed.
+thanks for visiting.
+```
